@@ -279,6 +279,7 @@ header {
     border-radius: 10px;
     border-style: solid;
 }
+<<<<<<< HEAD
 .grid-port .col4{
     background:url(images/port4.png) center / cover  no-repeat; ;
     border: #1d1d1d;
@@ -291,6 +292,8 @@ header {
     border-radius: 10px;
     border-style: solid;
 }
+=======
+>>>>>>> b15f63a80c9ed373eabb441084c83a10765e53ba
 
 .contact{
     margin-top: 8.875rem;
